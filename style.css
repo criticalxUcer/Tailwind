@@ -1,0 +1,62 @@
+.hero h1{
+    font-size: 60px;
+    top: 220px;
+    left: 100px;
+    width: 400px;
+}
+.hero h4{
+    font-size: 24px;
+    top: 500px;
+    left: 100px;
+    width: 600px;
+}
+.hero button{
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    top: 600px;
+    left: 100px;
+}
+.rec p{
+    left: 500px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: white;
+}
+.rec h1{
+    left: 100px;
+    font-size: 28px;
+    font-weight: 600;
+    color: white;
+}
+.rec h4{
+    left: 100px;
+    font-size: 21px;
+    font-weight: 600;
+    color: white;
+}
+.rec button{
+    left: 100px;
+    font-size: 28px;
+    font-weight: 600;
+    color: white;
+}
+
+.rec h3{
+    left: 825px;
+    font-size: 28px;
+    font-weight: 600;
+    color: white;
+}
+.rec h2{
+    left: 825px;
+    font-size: 21px;
+    font-weight: 600;
+    color: white;
+}
+aaa{
+    left: 1000px;
+    font-size: 28px;
+    font-weight: 600;
+    color: white;
+}
